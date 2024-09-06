@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Bryan Lynn. 
-- 🍩 I'm interested in mathematical and computational biology, social behavior and cooperation, and doughnuts.
-- 🍻 I'm looking to collaborate on anything involving mathematical model construction and analysis and/or behavior and species interactions.
+- 🍩 I'm interested in combining mathematical and computational biology with experimentation on species interactions and social behavior - particularly with microbes. I'm also interested in doughnuts.
+- 🍻 I'm always looking to collaborate!
 - 💌 You can reach me at: abstractbryan@gmail.com 
 
 <!--
